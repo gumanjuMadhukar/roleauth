@@ -1,0 +1,10 @@
+:root {
+	--ct-bg-leftbar: #1D2939;
+	--ct-menu-item: #fff;
+	--ct-menu-item-active: #fff;
+	--ct-table-striped-color: #000;
+
+}
+body, .main{
+	color:#000;
+}
